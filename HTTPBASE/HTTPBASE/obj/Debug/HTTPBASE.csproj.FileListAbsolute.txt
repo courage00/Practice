@@ -1,0 +1,44 @@
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\HTTPBASE\HTTPBASE\bin\HTTPBASE.dll.config
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\HTTPBASE\HTTPBASE\bin\HTTPBASE.dll
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\HTTPBASE\HTTPBASE\bin\HTTPBASE.pdb
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\HTTPBASE\HTTPBASE\bin\EntityFramework.dll
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\HTTPBASE\HTTPBASE\bin\EntityFramework.SqlServer.dll
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\HTTPBASE\HTTPBASE\bin\EntityFramework.xml
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\HTTPBASE\HTTPBASE\bin\EntityFramework.SqlServer.xml
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\HTTPBASE\HTTPBASE\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\HTTPBASE\HTTPBASE\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\HTTPBASE\HTTPBASE\obj\Debug\HTTPBASE.csprojResolveAssemblyReference.cache
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\HTTPBASE\HTTPBASE\obj\Debug\HTTPBASE.dll
+C:\Users\VENCIN\Documents\Visual Studio 2013\Projects\HTTPBASE\HTTPBASE\obj\Debug\HTTPBASE.pdb
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\HTTPBASE\HTTPBASE\bin\HTTPBASE.dll.config
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\HTTPBASE\HTTPBASE\bin\HTTPBASE.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\HTTPBASE\HTTPBASE\bin\HTTPBASE.pdb
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\HTTPBASE\HTTPBASE\bin\EntityFramework.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\HTTPBASE\HTTPBASE\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\HTTPBASE\HTTPBASE\bin\System.Net.Http.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\HTTPBASE\HTTPBASE\bin\System.Net.Http.WebRequest.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\HTTPBASE\HTTPBASE\bin\System.Net.Http.xml
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\HTTPBASE\HTTPBASE\bin\System.Net.Http.WebRequest.xml
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\HTTPBASE\HTTPBASE\bin\EntityFramework.xml
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\HTTPBASE\HTTPBASE\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\HTTPBASE\HTTPBASE\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\HTTPBASE\HTTPBASE\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\HTTPBASE\HTTPBASE\obj\Debug\HTTPBASE.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\HTTPBASE\HTTPBASE\obj\Debug\HTTPBASE.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\HTTPBASE\HTTPBASE\obj\Debug\HTTPBASE.pdb
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\HTTPBASE - 3\HTTPBASE\bin\HTTPBASE.dll.config
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\HTTPBASE - 3\HTTPBASE\bin\HTTPBASE.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\HTTPBASE - 3\HTTPBASE\bin\HTTPBASE.pdb
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\HTTPBASE - 3\HTTPBASE\bin\EntityFramework.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\HTTPBASE - 3\HTTPBASE\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\HTTPBASE - 3\HTTPBASE\bin\System.Net.Http.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\HTTPBASE - 3\HTTPBASE\bin\System.Net.Http.WebRequest.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\HTTPBASE - 3\HTTPBASE\bin\System.Net.Http.xml
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\HTTPBASE - 3\HTTPBASE\bin\System.Net.Http.WebRequest.xml
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\HTTPBASE - 3\HTTPBASE\bin\EntityFramework.xml
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\HTTPBASE - 3\HTTPBASE\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\HTTPBASE - 3\HTTPBASE\bin\zh-Hant\EntityFramework.resources.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\HTTPBASE - 3\HTTPBASE\bin\zh-Hant\EntityFramework.SqlServer.resources.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\HTTPBASE - 3\HTTPBASE\obj\Debug\HTTPBASE.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\HTTPBASE - 3\HTTPBASE\obj\Debug\HTTPBASE.dll
+C:\Users\user\Downloads\training\程式範本檔(含資料庫)\HTTPBASE - 3\HTTPBASE\obj\Debug\HTTPBASE.pdb
