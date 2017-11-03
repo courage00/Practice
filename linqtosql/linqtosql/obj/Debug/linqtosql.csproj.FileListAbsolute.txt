@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2017\Projects\linqtosql\linqtosql\bin\Debug\linqtosql.exe.config
+c:\users\user\documents\visual studio 2017\Projects\linqtosql\linqtosql\bin\Debug\linqtosql.exe
+c:\users\user\documents\visual studio 2017\Projects\linqtosql\linqtosql\bin\Debug\linqtosql.pdb
+c:\users\user\documents\visual studio 2017\Projects\linqtosql\linqtosql\obj\Debug\linqtosql.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\linqtosql\linqtosql\obj\Debug\linqtosql.exe
+c:\users\user\documents\visual studio 2017\Projects\linqtosql\linqtosql\obj\Debug\linqtosql.pdb
